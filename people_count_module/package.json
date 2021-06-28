@@ -1,0 +1,15 @@
+{
+  "name": "percept-people-count_module",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "description": "",
+  "private": true,
+  "main": "app.js",
+  "dependencies": {
+    "@azure/storage-blob": "^12.5.0",
+    "azure-iot-device": "^1.17.3",
+    "azure-iot-device-mqtt": "^1.15.3"
+  }
+}
